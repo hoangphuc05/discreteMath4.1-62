@@ -1,0 +1,4 @@
+﻿  findPrime.cpp
+d:\whitworth\spring2019\discretemath\proveprogram\findprime\findprime\findprime.cpp(62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\whitworth\spring2019\discretemath\proveprogram\findprime\findprime\findprime.cpp(54): warning C4715: 'checkPrime': not all control paths return a value
+  findPrime.vcxproj -> D:\Whitworth\Spring2019\DiscreteMath\proveProgram\findPrime\Debug\findPrime.exe
